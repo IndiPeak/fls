@@ -1,0 +1,16 @@
+{
+	"edges":[
+		{"id":"725c759a04cdc8c8","fromNode":"7f63a705544ce96e","fromSide":"right","toNode":"24dcc6dacd42bbfd","toSide":"left"}
+	],
+	"metadata":{
+		"frontmatter":{},
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{"id":"a421b8afa6024dfa","type":"group","x":-720,"y":-1840,"width":1900,"height":1040,"label":"UI"},
+		{"id":"2066944368107dca","type":"group","x":-680,"y":40,"width":1400,"height":1120,"label":"карты"},
+		{"file":"_resources_/{55F5DAAB-3B0A-4952-BF1C-B18454726E3B}.png","id":"c4da280695742bbb","type":"file","x":-680,"y":-1740,"width":400,"height":274},
+		{"file":"_resources_/Pasted image 20250613093154.png","id":"24dcc6dacd42bbfd","type":"file","x":40,"y":400,"width":265,"height":400},
+		{"file":"_resources_/{1CD958D8-A705-4151-9E17-7DCB2FA9B567}.png","id":"7f63a705544ce96e","type":"file","x":-640,"y":320,"width":272,"height":400}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Vesper",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
+  "accentColor": "#ffc799",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "JetBrains Mono"
+}
