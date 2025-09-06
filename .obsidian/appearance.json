@@ -5,5 +5,8 @@
   "accentColor": "#ffc799",
   "baseFontSize": 15,
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": false,
+  "showViewHeader": false,
+  "nativeMenus": false
 }
