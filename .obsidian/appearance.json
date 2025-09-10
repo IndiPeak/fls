@@ -3,10 +3,11 @@
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "accentColor": "#ffc799",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "JetBrains Mono",
   "showRibbon": false,
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

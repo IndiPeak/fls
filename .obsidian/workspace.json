@@ -4,72 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "71b23f02b11d2a10",
+        "id": "b4b28b1b675ab75e",
         "type": "split",
+        "dimension": 28.720626631853786,
         "children": [
           {
-            "id": "d68779d478117987",
-            "type": "split",
-            "dimension": 25.82380632145259,
-            "children": [
-              {
-                "id": "d662a448a11f64c7",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7dae4f35558e9dcf",
-                    "type": "leaf",
-                    "state": {
-                      "type": "calendar",
-                      "state": {},
-                      "icon": "calendar-with-checkmark",
-                      "title": "Calendar"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "96a87f58b746381c",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7602158d5cc5c858",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Граф"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "7ee95c5af4c966b6",
+            "id": "d662a448a11f64c7",
             "type": "tabs",
-            "dimension": 74.1761936785474,
+            "dimension": 46.28942486085343,
             "children": [
               {
-                "id": "f9e639416b66f107",
+                "id": "7dae4f35558e9dcf",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ЕГЭ/Информатика/Полеты информатики.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Полеты информатики"
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ed6ac77760289eef",
+            "type": "tabs",
+            "dimension": 53.71057513914657,
+            "children": [
+              {
+                "id": "9cb87f2595943cef",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Граф"
                 }
               }
             ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
+      },
+      {
+        "id": "db86c0221c7b118b",
+        "type": "tabs",
+        "dimension": 71.27937336814621,
+        "children": [
+          {
+            "id": "2349311f84dc8818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Информатика/25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +133,7 @@
             }
           },
           {
-            "id": "f018bc7c3154572a",
+            "id": "8097ab7e8b99dcd9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -156,7 +151,7 @@
             }
           },
           {
-            "id": "1e193cd5e3778088",
+            "id": "5fea9c8f2b7b1d74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -169,7 +164,7 @@
             }
           },
           {
-            "id": "b3a6ebe041b91640",
+            "id": "831585e188fb0322",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,7 +179,7 @@
             }
           },
           {
-            "id": "22a7aad1cf92eeb9",
+            "id": "65f52fbed74c1cba",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -201,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,28 +210,37 @@
       "command-palette:Открыть палитру команд": true
     }
   },
-  "active": "f9e639416b66f107",
+  "active": "2349311f84dc8818",
   "lastOpenFiles": [
-    "ЕГЭ/Информатика/Сентябрь.md",
     "ЕГЭ/Информатика/Полеты информатики.md",
+    "ЕГЭ/Информатика/25.md",
+    "ЕГЭ/Информатика/Сентябрь.md",
+    "ЕГЭ/Математика/Финансовые задачи.md",
+    "ЕГЭ/Математика/Сентябрь.md",
+    "ЕГЭ/Информатика/9.md",
+    "OtherMaterials/Pasted image 20250909215510.png",
+    "ЕГЭ/Информатика/19-21-22.md",
+    "ЕГЭ/Информатика/13.md",
+    "ЕГЭ/Информатика/2.md",
+    "ЕГЭ/Информатика/1.md",
+    "OtherMaterials/Pasted image 20250909171559.png",
+    "ЕГЭ/Математика/Полеты математика.md",
+    "ЕГЭ/Математика/Профиль 16 задание.md",
+    "().md",
+    "ЕГЭ/Русский язык/Полеты русский язык.md",
+    "ЕГЭ/Общее о грядущем.md",
+    "ЕГЭ/Русский язык/Сочинения/Служба в армии.md",
+    "Без названия.md",
+    "ЕГЭ/Русский язык/Сочинения",
+    "ЕГЭ/Информатика/Подготовка к майскому пробнику по информатике.md",
+    "ЕГЭ/Информатика/Июнь. Вариант 2.md",
     "OtherMaterials/2025-09-03_21-36.png",
     "OtherMaterials/Pasted image 20250716103010.png",
     "OtherMaterials/Pasted image 20250718124556.png",
-    "ЕГЭ/Информатика/Июнь. Вариант 2.md",
-    "ЕГЭ/Информатика/19-21-22.md",
     "ЕГЭ/Информатика/15.md",
-    "ЕГЭ/Информатика/13.md",
-    "ЕГЭ/Информатика/9.md",
-    "ЕГЭ/Информатика/2.md",
-    "ЕГЭ/Информатика/1.md",
-    "ЕГЭ/Математика/Полеты математика.md",
-    "ЕГЭ/Русский язык/Полеты русский язык.md",
-    "ЕГЭ/Математика/Профиль 16 задание.md",
     "ЕГЭ/Информатика/Июль.md",
-    "ЕГЭ/Общее о грядущем.md",
     "Без названия",
     "OtherMaterials",
-    "ЕГЭ/Информатика/Подготовка к майскому пробнику по информатике.md",
     "ЕГЭ/Математика/Июль. Вариант 1.md",
     "ЕГЭ/Математика/Подготовка к последнему пробнику по математике.md",
     "Хобби/С95/Сделанное.canvas",
@@ -250,20 +255,14 @@
     "ЕГЭ/Информатика",
     "Хобби/С95",
     "Хобби/inscryption-trailer-squirrels_feature-2023484032.jpg",
-    "Хобби/next jam задачи.md",
-    "Хобби/Out Of Hands.md",
-    "Хобби/Russian novel analitics.md",
-    "ЕГЭ/Rework информатики.md",
     "_resources_/{1CD958D8-A705-4151-9E17-7DCB2FA9B567}.png",
     "_resources_",
     "_resources_/{55F5DAAB-3B0A-4952-BF1C-B18454726E3B}.png",
-    "2025-06-14.md",
     "Untitled.canvas",
     "DEV/CARD GAME ROADMAP.canvas",
     "DEV/надо сделать.canvas",
     "_resources_/Pasted image 20250613093154.png",
     "ЕГЭ",
-    "Хобби",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Pasted image 20250429082726.png"
